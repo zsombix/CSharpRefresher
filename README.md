@@ -14,4 +14,7 @@ Some features in CSharp 6 I have here:
 * Await in catch and finally block(AwaitInCatch.cs)
 * Expression-bodied function members
 
+## CSharp7
+Some features in CSharp 7 I have here:
 
+* Out variables
