@@ -18,3 +18,7 @@ Some features in CSharp 6 I have here:
 Some features in CSharp 7 I have here:
 
 * Out variables
+* Pattern matching
+
+CHECK: https://devblogs.microsoft.com/dotnet/new-features-in-c-7-0
+https://dotnettutorials.net/lesson/csharp-7-new-features/
