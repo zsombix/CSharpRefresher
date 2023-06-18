@@ -1,6 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
+// https://devblogs.microsoft.com/dotnet/new-features-in-c-7-0
+// https://dotnettutorials.net/lesson/csharp-7-new-features/
+
 // Out variables
 // https://devblogs.microsoft.com/dotnet/new-features-in-c-7-0/#out-variables
 OutVariables.PrintNumbers(39);
