@@ -19,6 +19,14 @@ Some features in CSharp 7 I have here:
 
 * Out variables
 * Pattern matching
+* Tuple types and tuple literals 
+* Deconstruction
+* Local functions
+* Literal improvements
+* Refs returns and locals
+* Generalized async return types
+* More expression bodied members
+* Throw expressions
 
 CHECK: https://devblogs.microsoft.com/dotnet/new-features-in-c-7-0
 https://dotnettutorials.net/lesson/csharp-7-new-features/
