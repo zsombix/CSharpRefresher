@@ -31,14 +31,7 @@ Some features in CSharp 7 I have here:
 ## CSharp8
 Some features in CSharp 8 I have here:
 
-Check: 
+* Default interface methods
+* Nullable reference type
 
-https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history#c-version-80
 
-https://medium.com/globant/c-8-new-features-17bdf09658d3
-
-https://dotnettutorials.net/lesson/csharp-8-new-features/
-
-https://www.codeproject.com/Articles/1265802/New-Features-of-Csharp-8
-
-https://www.c-sharpcorner.com/article/c-sharp-8-new-exciting-features/
