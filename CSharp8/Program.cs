@@ -10,4 +10,12 @@ writeLiner.WriteLine();
 
 // Nullable reference type
 // There is a warning to not make this mistake
-//NullRefereceType.ReferencingNullableString();
+// Uncomment and running this causes a runtime error
+// NullRefereceType.ReferencingNullableString();
+
+// Pattern matching enhancements
+var patterMatch = new PatternMatching();
+patterMatch.Check();
+
+// Ranges
+Ranges.RunExamples();

@@ -33,5 +33,12 @@ Some features in CSharp 8 I have here:
 
 * Default interface methods
 * Nullable reference type
+* Pattern matching enhancements
+* Ranges
+
+
+## CSharp9
+
+## CSharp10
 
 
