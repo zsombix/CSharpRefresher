@@ -35,10 +35,13 @@ Some features in CSharp 8 I have here:
 * Nullable reference type
 * Pattern matching enhancements
 * Ranges
-
+* Interpolated verbatim strings
+* Using declarations and disposable ref structs
+* readonly instance members
 
 ## CSharp9
 
 ## CSharp10
 
+## CSharp11
 

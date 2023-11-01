@@ -19,3 +19,16 @@ patterMatch.Check();
 
 // Ranges
 Ranges.RunExamples();
+
+// Interpolated verbatim strings
+var filename = @"alma\string";
+Console.WriteLine(@$"c:\temp\{filename}");
+Console.WriteLine($@"c:\temp\{filename}");
+
+// Using declarations and disposable ref structs
+Usings.RunStatement();
+
+//readonly instance members
+var readonlyCheck = new ReadOnlyInstanceMemebers();
+readonlyCheck.SetX(1);
+readonlyCheck.IncreaseX();
