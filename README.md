@@ -41,6 +41,14 @@ Some features in CSharp 8 I have here:
 
 ## CSharp9
 
+* Record types
+* Init only setters
+* Top-level statements
+* Pattern matching enhancements
+* Performance and interop
+* Fit and finish features
+* Support for code generators
+
 ## CSharp10
 
 ## CSharp11
