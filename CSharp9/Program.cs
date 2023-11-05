@@ -34,13 +34,36 @@ Console.WriteLine(teacher);
 // And a couple of other features in the documentation
 
 // Init only setters
-
+// https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#init-only-setters
 //Error if uncommenting this
 //person2.Name = "aaa";
 
 
 // Top-level statements
+// https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#top-level-statements
+// This is already used in all of the Program.cs
+
+
 // Pattern matching enhancements
+// https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#pattern-matching-enhancements
+
+string? somethingOrNot = null;
+
+if (somethingOrNot is not null) {
+    Console.WriteLine("It's something");
+}
+
+char aaa = 'a';
+Console.WriteLine(aaa.IsLetter());
+char sep = '.';
+Console.WriteLine(sep.IsLetterOrSeparator());
+
 // Performance and interop
+// https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#performance-and-interop
+
+
 // Fit and finish features
+// https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#fit-and-finish-features
+
 // Support for code generators
+// https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#support-for-code-generators
